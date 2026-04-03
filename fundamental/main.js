@@ -1,8 +1,8 @@
 //alert("Hello JS");
 
-document.write("Hello JS<br>"); 
-document.write("<b>Hello JS</b>"); 
-document.write("<h1><font color='blue'>Hello JS</font></h1>"); 
+//document.write("Hello JS<br>"); 
+//document.write("<b>Hello JS</b>"); 
+//document.write("<h1><font color='blue'>Hello JS</font></h1>"); 
 
 /*var name = "Ammar";
 var age = 20;
@@ -21,7 +21,7 @@ var age = prompt("What is your age?","type your age here");
 votable = (age >= 18) ? "You are old enough to vote" : "You are not old enough to vote";
 console.log(votable);*/
 
-var age = 12;
+/*var age = 12;
 if(age <= 10){ // true
 var x = "Children";
 } else if(age <= 20){
@@ -52,3 +52,4 @@ switch(day){
         break;
 
 }
+*/
